@@ -1,4 +1,4 @@
-stea_s0,alat_s_s0,asat_s_s0,ggt_s_s0,tg_s_s0,lip_s_s0,ldl_s_s0,hs_crp_s0,stea_s0,tail_height_rat_s0,ffs_s0,ffs_pattern_s0,physact_s0,diab_type_s0,alcg30d_s0,hyp_s0,smoking_
+FattyLiver,ALAT,ASAT,GGT,Triglyceride,LIP,LDL Cholesterol,hs_crp,Fatty Liver,Waiste-Height-Ratio,Nutrition Balance,Nutrition Pattern,Physical Activity,Diabetes Type,Alcohol in g/30days,Hypertension,Smoking Status
 0,0.25,0.32,0.29,0.63,1.52,6.77,0.256,0,0.410240964,20,3,1,0,9.285,1,0,68.1,166                                                                                             
 1,0.77,0.46,0.7,3.6,1.73,6.5656,4.71,1,0.605357143,14,1,1,0,2.61,1,0,101.7,168                                                                                              
 0,0.32,0.34,0.23,2.59,2.05,6.49,1.21,0,0.451612903,15,1,1,0,7.83,0,0,70,155                                                                                                 
